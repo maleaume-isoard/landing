@@ -1,0 +1,11 @@
+.btn-blue {
+	background-color: #364f6b;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+}
+.btn-blue:hover {
+	background-color: #364f6b;
+	color: red;
+}}
